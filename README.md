@@ -1,8 +1,8 @@
 # 💫 About Me:
-I'm Bhavesh Bhardwaj.  
-Currently a Physics undergraduate student at IISER Bhopal, India.  
-Exploring programming world  
-I’m currently learning C and DSA
+- I'm Bhavesh Bhardwaj.  
+- Currently a Physics undergraduate student at IISER Bhopal, India.  
+- Exploring programming world  
+- Currently learning C and DSA
 
 
 ## 🌐 Socials:
